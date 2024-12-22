@@ -1,0 +1,7 @@
+name: rlevels_and_rebirth
+version: '${project.version}'
+main: my.reqqpe.rlevels_and_rebirth.Main
+api-version: '1.16'
+
+commands:
+  setstats:

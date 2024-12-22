@@ -1,0 +1,19 @@
+prefix: "&f[&6rlevels_and_rebith&f]"
+
+messages:
+  reload: "{prefix} &aбыл успешно перезагружен"
+  level:
+    add: "{prefix} Вы добавили игроку {player} {add_count} уров(ень/ней), теперь у него {level}, а был {previous_level}"
+    set: "{prefix} Вы установили игроку {player}, уровень {level}, а у него был {previous_level}"
+    remove: "{prefix} У игрока {player} было удалено {remove_count} уровней, теперь у него {level}, а был {previous_level}"
+    reset: "{prefix} Вы сбросили количество уровней у игрока {player}, теперь у него {level}"
+  rebirth:
+    add: "{prefix} Вы добавили игроку {player} {add_count} ребитх(ов), теперь у него {rebirth}, а был {previous_rebirth}"
+    set: "{prefix} Вы установили игроку {player}, уровень {rebirth}, а у него был {previous_rebirth}"
+    remove: "{prefix} У игрока {player} было удалено {remove_count} уровней, теперь у него {rebirth}, а был {previous_rebirth}"
+    reset: "{prefix} Вы сбросили количество ребитхов у игрока {player}, теперь у него {rebirth}"
+  rebite:
+    add: "{prefix} Вы добавили игроку {player} {add_count} ребит(ов), теперь у него {rebite}, а был {previous_rebite}"
+    set: "{prefix} Вы установили игроку {player}, количество ребитов {rebite}, а у него было {previous_rebite}"
+    remove: "{prefix} У игрока {player} было удалено {remove_count} ребитов, теперь у него {rebite}, а было {previous_rebite}"
+    reset: "{prefix} Вы сбросили количество ребитов у игрока {player}, теперь у него {rebite}"
